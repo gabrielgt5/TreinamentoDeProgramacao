@@ -1,0 +1,59 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+.main {
+  width: 100%;
+  margin: 0;
+}
+.navMenu {
+  padding: 1rem;
+  border-bottom: 1px solid red;
+  width: 100%;
+  margin: 0;
+}
+.secaoSerie {
+  width: 100%;
+  margin: 0;
+  padding: 1rem;
+  background-color: black;
+  /* background-color: black; */
+  color: white;
+}
+
+.secaoFilme {
+  width: 100%;
+  margin: 0;
+  padding: 1rem;
+  background-color: black;
+  /* background-color: black; */
+  color: white;
+}
+.navMenu {
+  background-color: black;
+  color: white;
+}
+
+.link {
+  padding-left: 1rem;
+  color: white;
+  text-decoration: none;
+  padding-left: 3rem;
+}
+.linkHome {
+  padding-right: 1rem;
+  padding-left: 3rem;
+
+  color: red;
+
+  text-decoration: underline;
+}
+
+video {
+  border-radius: 8px;
+}
